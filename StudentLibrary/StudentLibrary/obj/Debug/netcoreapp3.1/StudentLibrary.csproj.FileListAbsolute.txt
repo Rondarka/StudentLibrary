@@ -1,0 +1,9 @@
+C:\Users\exaera\source\repos\StudentLibrary\StudentLibrary\bin\Debug\netcoreapp3.1\StudentLibrary.deps.json
+C:\Users\exaera\source\repos\StudentLibrary\StudentLibrary\bin\Debug\netcoreapp3.1\StudentLibrary.dll
+C:\Users\exaera\source\repos\StudentLibrary\StudentLibrary\bin\Debug\netcoreapp3.1\StudentLibrary.pdb
+C:\Users\exaera\source\repos\StudentLibrary\StudentLibrary\obj\Debug\netcoreapp3.1\StudentLibrary.csprojAssemblyReference.cache
+C:\Users\exaera\source\repos\StudentLibrary\StudentLibrary\obj\Debug\netcoreapp3.1\StudentLibrary.AssemblyInfoInputs.cache
+C:\Users\exaera\source\repos\StudentLibrary\StudentLibrary\obj\Debug\netcoreapp3.1\StudentLibrary.AssemblyInfo.cs
+C:\Users\exaera\source\repos\StudentLibrary\StudentLibrary\obj\Debug\netcoreapp3.1\StudentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\exaera\source\repos\StudentLibrary\StudentLibrary\obj\Debug\netcoreapp3.1\StudentLibrary.dll
+C:\Users\exaera\source\repos\StudentLibrary\StudentLibrary\obj\Debug\netcoreapp3.1\StudentLibrary.pdb
